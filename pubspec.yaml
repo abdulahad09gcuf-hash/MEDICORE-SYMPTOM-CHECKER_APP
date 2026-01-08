@@ -1,0 +1,45 @@
+name: symptom_checker_app
+description: A Flutter Symptom Checker App with login, diagnosis, meals, prescriptions, and checkup tools.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Icons
+  cupertino_icons: ^1.0.6
+
+  # Local storage
+  shared_preferences: ^2.2.2
+
+  # Image picker for profile picture
+  image_picker: ^1.2.1
+
+  # Charts and Graphs
+  fl_chart: ^1.1.1   # updated version compatible with Flutter 3+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+  # For generating launcher icons
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  # App assets
+  assets:
+    - assets/icon.png
+
+# Configuration for launcher icons
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
