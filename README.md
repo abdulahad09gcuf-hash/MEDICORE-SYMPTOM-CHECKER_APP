@@ -107,19 +107,8 @@ Diagnosis Processing
 Result Display
    ↓
 Prescription & Advice
-```
+`
 
----
-
-## 📸 Screenshots (To Be Added)
-
-```text
-📷 Login Screen
-📷 Signup Screen
-📷 Home Screen
-📷 Diagnosis Result
-📷 Prescription Screen
-```
 
 *(Screenshots will be added after UI finalization)*
 
@@ -207,7 +196,7 @@ flutter run
 ## 👨‍💻 Author
 
 **Abdul Ahad**
-Bioinformatics | Health-Tech | Flutter Developer
+Bioinformatics | Health-Tech | Flutter Developer, data science 
 
 ---
 
