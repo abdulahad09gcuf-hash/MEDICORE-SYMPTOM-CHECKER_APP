@@ -63,8 +63,6 @@ ___  pubspec yml
 
 ---
 
-## 🧱 Module Description
-
 ### 🔐 Authentication Module
 
 * Login Screen
@@ -190,7 +188,6 @@ flutter run
 
 ---
 
-## 📜 License
 
 
 ## 👨‍💻 Author
